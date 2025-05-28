@@ -1,6 +1,6 @@
 {
-	"author": "Aarav Daga",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Aarav Daga",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
